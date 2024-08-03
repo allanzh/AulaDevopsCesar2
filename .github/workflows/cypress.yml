@@ -1,5 +1,5 @@
 name: Cypress Tests Run on Pipeline
-run-name: Cypress Tests Run on Pipeline
+run-name: Cypress Tests Run on Pipeline 
 on: [push]
 
 jobs:
